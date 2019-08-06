@@ -1,5 +1,5 @@
 Privacy Policy
-Developer built the "œÓ„Ó‰‡ ”Á" app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
+Developer built the "–ü–æ–≥–æ–¥–∞ –£–∑" app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
 
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
 
@@ -45,7 +45,7 @@ Online resources:
 
 3.2 Google Play Services
 
-Google Play Services offers APIs and security services to the Android developer ecosystem. Google acts as a data controller for any personal data processed in Google Play Services, and offers user notices and consents about the use of personal data in the serviceís user interface in Android.
+Google Play Services offers APIs and security services to the Android developer ecosystem. Google acts as a data controller for any personal data processed in Google Play Services, and offers user notices and consents about the use of personal data in the service‚Äôs user interface in Android.
 
 Collected informations: 
 * Device information 
@@ -55,7 +55,7 @@ Collected informations:
 * Local storage 
 * Cookies and similar technologies
 
-Google use the collected information to provide, maintain, protect and improve Google's services, to develop new ones, and to protect Google and the users. Google also use this information to offer you tailored content ñ like giving you more relevant search results and ads.
+Google use the collected information to provide, maintain, protect and improve Google's services, to develop new ones, and to protect Google and the users. Google also use this information to offer you tailored content ‚Äì like giving you more relevant search results and ads.
 
 Online resources: 
 * Google Terms of Service          https://policies.google.com/terms
@@ -69,7 +69,7 @@ I am striving to use commercially acceptable means of protecting your Personal I
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-6. Childrenís Privacy
+6. Children‚Äôs Privacy
 
 These Services do not address anyone under the age of 16. I do not knowingly collect personally identifiable information from children under 16. In the case I discover that a child under 16 has provided me with personal information, I immediately delete those informations. If you are a parent or guardian and you are aware that your child has provided personal information, please contact me so that I will be able to do necessary actions.
 
