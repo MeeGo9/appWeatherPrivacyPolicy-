@@ -8,8 +8,8 @@ This privacy policy is used to inform you regarding policies with the collection
 The app uses advertising (and in app payments) to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third parties.
 
 Links to privacy policies of third party service providers used in the app: 
-Google Play Services  https://www.google.com/policies/privacy/
-AdMob  https://support.google.com/admob/answer/6128543   
+Google Play Services               https://www.google.com/policies/privacy/
+AdMob                              https://support.google.com/admob/answer/6128543   
 
 2. Sharing Your Information
 
